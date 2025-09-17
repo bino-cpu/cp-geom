@@ -1,6 +1,6 @@
 # Readme 
 Git bash / Git hub
-
+fjezkfezj,lezmfrel
 ## Résumé rapide
 - [x] Configure ton nom/email
 - [x] Génére et ajoute une clé SSH à GitHub
