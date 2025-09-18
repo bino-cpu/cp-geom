@@ -41,11 +41,11 @@ Git bash / Git hub
 			- ```git clone git@github.com:ton-nom-utilisateur/nom-du-repo.git```
 			- ```cd nom-du-repo```
 5. Ajouter et charger des fichiers
-	1- Ajoute (ou crée) tes fichiers dans le dossier du dépôt
+	- Ajoute (ou crée) tes fichiers dans le dossier du dépôt
 		- Par exemple, place monfichier.txt dans ce dossier.
-	2- Ajoute les fichiers à Git :		
+	- Ajoute les fichiers à Git :		
 		- ```git add monfichier.txt```
-	3- Prépare le commit :
+	- Prépare le commit :
 		```bash
 		git commit -m "Ajout de mon premier fichier"
 		```
