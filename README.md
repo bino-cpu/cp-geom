@@ -46,30 +46,27 @@ Git bash / Git hub
 	- Ajoute (ou crée) tes fichiers dans le dossier du dépôt
 		- Par exemple, place monfichier.txt dans ce dossier.
 	- Ajoute les fichiers à Git :		
-		```
-		bash
+		```bash
 		git add monfichier.txt
 		```
 	- Prépare le commit :
-		```
-		bash
+		```bash
 		git commit -m "Ajout de mon premier fichier"
 		```
 	- Envoie (push) les fichiers (changements) sur GitHub :
-		```
-		bash
+		```bash
 		git push origin main		
 		```
 ## Quelques Commandes utiles
-	Check status:
-		```git status```
-	View commit history:
-		```git log```
-	Pull latest changes from GitHub:
-		```git pull origin main```
-	Create a new branch:
-		```git checkout -b new-branch-name```
-	Switch branches:
-		```git checkout branch-name```
-	Merge another branch into current:
-		```git merge branch-name```
+	- Check status:
+		- ```git status```
+	- View commit history:
+		- ```git log```
+	- Pull latest changes from GitHub:
+		- ```git pull origin main```
+	- Create a new branch:
+		- ```git checkout -b new-branch-name```
+	- Switch branches:
+		- ```git checkout branch-name```
+	- Merge another branch into current:
+		- ```git merge branch-name```
