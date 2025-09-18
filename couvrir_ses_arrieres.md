@@ -7,7 +7,7 @@
 - [x] Delete or move your SSH keys if used.
 - [x] Unset your Git user/email if set globally.
 - [x] Log out of GitHub in all browsers.
-
+Coucou c'est moua le pirate du bénin.
 1. Remove Your Local Changes (Optional but Safe)
 - If you don’t want your local work left behind on the computer:
 	- Commit and push your changes to GitHub:
