@@ -28,7 +28,7 @@ Git bash / Git hub
 		- Appuie sur Entrée pour accepter le dossier par défaut `(/c/Users/ton_nom/.ssh/id_ed25519)`.
 		- Si demandé, indique un mot de passe ou appuie sur Entrée pour ne pas en mettre.
 
-3. Ajouter la clé SSH à ton compte GitHub	
+3. Ajouter la clé SSH à ton dépôt dans le compte GitHub	
 	- Copie la clé publique :
 		- ```cat ~/.ssh/id_ed25519.pub```
 	- Copie le texte affiché sur GitHub 
