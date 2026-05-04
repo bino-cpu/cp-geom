@@ -38,7 +38,7 @@ Git bash / Git hub
 	- Pour créer un nouveau dépôt sur GitHub : "New" ou "Nouveau repository".
 		- Donne un nom, puis crée-le.
 	- **Cloner ce dépôt sur ton ordinateur :**
- 		- Dans "<Code>"  :
+ 		- Dans "<Code>" 
 			- Récupère l’URL SSH du dépôt (git@github.com:...)
 			- Dans Git Bash 
 				- ```git clone git@github.com:ton-nom-utilisateur/nom-du-repo.git```
