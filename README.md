@@ -37,11 +37,12 @@ Git bash / Git hub
 4. Se connecter à un dépôt (repository)
 	- Pour créer un nouveau dépôt sur GitHub : "New" ou "Nouveau repository".
 		- Donne un nom, puis crée-le.
-	- **Cloner ce dépôt sur ton ordinateur :** 
-		- Récupère l’URL SSH du dépôt (git@github.com:...)
-		- Dans Git Bash 
-			- ```git clone git@github.com:ton-nom-utilisateur/nom-du-repo.git```
-			- ```cd nom-du-repo```
+	- **Cloner ce dépôt sur ton ordinateur :**
+ 		- Dans "<Code>"  :
+			- Récupère l’URL SSH du dépôt (git@github.com:...)
+			- Dans Git Bash 
+				- ```git clone git@github.com:ton-nom-utilisateur/nom-du-repo.git```
+				- ```cd nom-du-repo```
 5. Ajouter et charger des fichiers
 	- Ajoute (ou crée) tes fichiers dans le dossier du dépôt
 		- Par exemple, place monfichier.txt dans ce dossier.
